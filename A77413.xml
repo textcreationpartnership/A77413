@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Briefe collections out of Magna Charta: or, the knowne good old lawes of England· Which sheweth; that the law is the highest inheritance the King hath; and that if his charter, grant, or pattent, be repugnant to the said lawes, and statutes, cannot be good, as is instanced in the charter of Bridewell, London, and others. By which it appeares; that the King by his charter may not alter the nature of the law, the forme of a court; nor inheritance lineally to descend; nor that any subject be protected from arrests, suites, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77413</idno>
+            <idno type="STC">Wing B4557</idno>
+            <idno type="STC">Thomason E38_12</idno>
+            <idno type="STC">Thomason E102_11</idno>
+            <idno type="STC">ESTC R2906</idno>
+            <idno type="EEBO-CITATION">99872221</idno>
+            <idno type="PROQUEST">99872221</idno>
+            <idno type="VID">155904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77413)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155904)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 7:E38[12]; 18:E102[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Briefe collections out of Magna Charta: or, the knowne good old lawes of England· Which sheweth; that the law is the highest inheritance the King hath; and that if his charter, grant, or pattent, be repugnant to the said lawes, and statutes, cannot be good, as is instanced in the charter of Bridewell, London, and others. By which it appeares; that the King by his charter may not alter the nature of the law, the forme of a court; nor inheritance lineally to descend; nor that any subject be protected from arrests, suites, &amp;c.</title>
+                  <author>England. Magna Carta.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>for George Lindsey, and are to be sould at his shop over against London-stone,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy E.102[11]: "May 19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prerogative, Royal --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Constitutional law --  Early works to 1800.</term>
+               <term>London (England) --  Charters, grants, privileges --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155904:1" rendition="simple:additions"/>
+            <p>Briefe Collections OUT OF Magna Charta: OR, The Knowne good old LAWES OF ENGLAND.</p>
+            <p>Which ſheweth; That the Law is the higheſt Inheritance the King hath; and that if His Charter, Grant, or Pattent, be repugnant to the ſaid Lawes, and Statutes, cannot be good, as is inſtanced in the Charter of <hi>Bridewell, London,</hi> and others.</p>
+            <p>By which it appeares; <hi>That the King by His Charter may not alter the Nature of the Law, the Forme of a Court; nor Inheritance lineally to deſcend; nor that any Subject be protected from Arreſts, Suites,</hi> &amp;c.</p>
+            <p>Printed at <hi>London,</hi> for <hi>George Lindſey,</hi> and are to be ſould at his Shop over againſt <hi>London-ſtone.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155904:2"/>
+            <pb n="3" facs="tcp:155904:2"/>
+            <head>Collections out of <hi>MAGNA CHARTA:</hi> OR, The knowne good old Lawes of <hi>ENGLAND.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>Nter Magnalia Regni;</hi>
+               <note place="margin">
+                  <hi>Magnalia Reg<g ref="char:EOLhyphen"/>ni,</hi> 19. H. 6.</note> Amongſt the greateſt and moſt haughty things of this Kingdome; as it is affirmed in the 19. <hi>H.</hi> 6. <hi>Le ley eſt le pluis hault.</hi> Inheritance <hi>q. le Roy ad, &amp;c.</hi> That is; the Law is the higheſt Inheritance that the King hath.</p>
+            <p>For by the Law both the King and all his Subjects are ruled and directed.</p>
+            <p>
+               <note place="margin">The Maximes to direct the King.</note>The Maximes and Rules whereby the King is directed, are the ancient Maximes and Cu<g ref="char:EOLhyphen"/>ſtomes, and States of this Land.</p>
+            <pb n="4" facs="tcp:155904:3"/>
+            <p>
+               <note place="margin">The Maximes.</note> The Maximes are the foundations of the Law, and the full and perfect Concluſions of reaſon.</p>
+            <p>
+               <note place="margin">The Cuſtomes of the Realm.</note> The Cuſtomes of the Realme, are properly ſuch things, as through much, often, and long vſage: either of ſimplicitie, or ignorance, get<g ref="char:EOLhyphen"/>ting once an Entrie; are entred and hardned by Succeſſion, and after be defended as firme and ſtable Lawes.</p>
+            <p>
+               <note place="margin">The Statutes of the Realm.</note> The Statutes of the Realme, are the reſolute Decrees, and the abſolute Judgements of the Parliament eſtabliſhed by the King, with the common conſent of the three Eſtates, who doe repreſent the whole and entire Body of the Realme of <hi>England.</hi>
+            </p>
+            <p>To the purpoſe of this diſcourſe, The law is: If any Charter bee graunted by the King, the which is repugnant to the Maximes, Cu<g ref="char:EOLhyphen"/>ſtomes, or Statutes of the Realme; Then is the Charter void, and it is either by <hi>Quowarranto,</hi> or by <hi>Scirefacias</hi> (as learned men have left Pre<g ref="char:EOLhyphen"/>ſidents) to bee repealed. As in <hi>Anno</hi> 19. <hi>Ed.</hi>
+               <note place="margin">19. <hi>Ed.</hi> 3.</note> 3.</p>
+            <p>That a Kings Grant which is either repug<g ref="char:EOLhyphen"/>nant to Law,
+<note place="margin">A Kings Grant repug<g ref="char:EOLhyphen"/>nant to Sa<g ref="char:EOLhyphen"/>tutes &amp;c. not good.</note> Cuſtome, or Statute, is not good nor pleadable in the Law; See what Preſidents thereof have beene left by our wiſe Forefa<g ref="char:EOLhyphen"/>thers.</p>
+            <p>It is ſet downe in 13.
+<note place="margin">13. <hi>H</hi> 6. <hi>H.</hi> 2.</note> H. 6. That King H. 2. had by his Charter granted to the Pryor and
+<pb n="5" facs="tcp:155904:3"/>Monks of S. <hi>Bartholomews</hi> in London, that the Pryor and his Monks ſhould be as free in their Church as the King was in his Crowne.</p>
+            <p>Yet by this grant was the Pryor and his Monks deemed and taken to be but as Subjects, and the aforeſaid grant in that reſpect to be voide. For by the law the King may not any more diſable himſelf of his regall ſuperiority over his Subjects, then his ſubjects can re<g ref="char:EOLhyphen"/>nounce or avoide their ſubjection, againſt or towards their King or Superiour.</p>
+            <p>
+               <note place="margin">
+                  <hi>Stacyes,</hi> ex<g ref="char:EOLhyphen"/>ample.</note>You know that <hi>Stacy</hi> would have renounced his loyalty and ſubjection to the Crowne of <hi>England,</hi> and would have adopted himſelfe to have been a ſubject to King <hi>Philip</hi> of <hi>Spaine.</hi> But anſwer was made by the Court; That by the lawes of this Realme, neither may the King re<g ref="char:EOLhyphen"/>leaſe or relinquiſh the ſubjection of his ſub<g ref="char:EOLhyphen"/>ject, neither may the ſubject revolt in his alle<g ref="char:EOLhyphen"/>giance from the ſuperiority of his Prince.</p>
+            <p>There are two notable preſidents in the time of King <hi>Edward</hi> 3.
+<note place="margin">K. <hi>Ed.</hi> 3.</note> the which although they take place in ſome one reſpect; yet were they not adjudged of according to the minde of the King being the Grantor.</p>
+            <p>
+               <note place="margin">The L. <hi>Moun<g ref="char:EOLhyphen"/>tague.</hi>
+               </note> That is, the King granted unto the Lord <hi>William Mountague,</hi> the Iſle of <hi>Wight,</hi> and that he ſhould be crowned King of the ſame.</p>
+            <p>
+               <note place="margin">The Earle of <hi>Darby.</hi>
+               </note> And he alſo granted unto the Earle of <hi>Darby</hi> the Iſle of <hi>Man,</hi> and that he ſhould be crown<g ref="char:EOLhyphen"/>ed King of the ſame.</p>
+            <pb n="6" facs="tcp:155904:4"/>
+            <p>Yet theſe two perſonages (notwithſtanding the ſaid grants) were ſubjects,
+<note place="margin">8. <hi>H.</hi> 4.</note> and their Iſlands were under the dominion and ſubjection of the King, and in that reſpect were the grants voide.</p>
+            <p>It was ſpoken in the 8.
+<note place="margin">31. <hi>H.</hi> 6.</note> 
+               <hi>H.</hi> 4. <hi>Quod poteſt as Principis, non est incluſa legibus.</hi> That is, a Princes power is not bounded with rules or li<g ref="char:EOLhyphen"/>mits of the law: howſoever that ſentence is ſo, the law agreed to the contrary.</p>
+            <p>The 31 <hi>H.</hi> 6. whereas it is agreed for law, That it is not in the Kings power to grant by his Charter, that a man ſeized of land in ſee ſimple, may deviſe by his laſt Will and Teſta<g ref="char:EOLhyphen"/>ment the ſame lands to another, or that the youngeſt ſonne by the cuſtome of Burrough Engliſh, ſhall not inherit; or that lands being Frank fee, ſhould be of the nature of ancient demeaſne.</p>
+            <p>Or that a new incorporated towne,
+<note place="margin">34. <hi>H</hi> 8.</note> that an aſſize of Freſh force ſhould be uſed, or that they ſhall have toll, traverſe, or through toll, or ſuch like, &amp;c. 37 <hi>H.</hi> 8. &amp; 49. Aſſ. 4.8.</p>
+            <p>See alſo a notable caſe agreed for law in 6. <hi>H.</hi> 7. where the Juſtices doe affirme the law to be, that Rape is made felony by ſtatute, and that the ſame by the law is not inquirable but be<g ref="char:EOLhyphen"/>fore Juſtices that have authority to heare and determine of the ſame.</p>
+            <p>In this caſe the King cannot by his Charter
+<pb n="7" facs="tcp:155904:4"/>make the ſame offence to be enquired of in a Law day; nor the King cannot grant, that a Leet ſhall be of any other nature, then it is by the courſe of Common Law: So thereby it appeareth; that the King may not either alter the nature of the Law, the forme of a Court, or the manner or order of pleading.</p>
+            <p>And in 8. <hi>H.</hi> 6. it is agreed for Law;
+<note place="margin">
+                  <hi>Anno</hi> 8. H. 6.</note> That the King may not grant to <hi>I. S.</hi> That <hi>I. S.</hi> may be judge in his owne proper Cauſe; nor that <hi>I. S.</hi> ſhall be ſued by an action at the Common Law, by any other perſon; nor that <hi>I. S.</hi> ſhall have a Market, a Faire, or a free Warrant in another mans ſoyle.</p>
+            <p>
+               <note place="margin">
+                  <hi>Hill</hi> Juſtice.</note>And in the long Record by <hi>Hill</hi> the reverend Judge, it is ſaid for Law; That whereas the King hath a prerogative, that Hee ſhall have the worſhip of the body of His Tenants (al<g ref="char:EOLhyphen"/>though be hold of the King but by poſteriori<g ref="char:EOLhyphen"/>ty) yet if the King grant over his Seigniory un<g ref="char:EOLhyphen"/>to another with like prerogative (notwitſtan<g ref="char:EOLhyphen"/>ding any Poſteriority) the prerogative ſhall not paſſe: For (ſaith the Booke) the King by His Charter cannot change the Lawes.</p>
+            <p>The ſame Law is; That the King cannot grant unto another the prerogative of <hi>Nullum tempus occurrit Regi;</hi> nor that a Diſcent ſhall not take away an Entry; nor a Collaterall Warrant ſhall not bind; nor that <hi>Poſſeſsio Fra<g ref="char:EOLhyphen"/>tris</hi> ſhall not take place; nor that the wife
+<pb n="8" facs="tcp:155904:5"/>ſhall not be endowed of her husbands lands; nor that Inheritance ſhall lineally deſcend; nor that any Subject ſhall be under protection from arreſts, ſuits, and ſuch like, &amp;c. Yet doe not wee ſee daily in experience; That whatſo<g ref="char:EOLhyphen"/>ever can be procured under the Great Seale of <hi>England,</hi> is taken <hi>Quaſi ſanctim?</hi>
+            </p>
+            <p>And although it be meerly againſt the Laws, Cuſtomes, and Statutes of this Realme; yet it is defended in ſuch ſort, that ſome have been called rebellious, for not allowing ſuch voyd and unlawfull grants.</p>
+            <p>And an infinite number of ſuch like preſi<g ref="char:EOLhyphen"/>dents I could ſet downe to maintaine the afore<g ref="char:EOLhyphen"/>ſaid argument, but theſe few examples ſhall ſerve for this time.</p>
+            <p>
+               <note place="margin">The authority of the Gover<g ref="char:EOLhyphen"/>nours of Bridewell.</note>But now we have to ſee, if the ſaid Charter granted to the Citie concerning the authoritie of the Governours of Bridewell, ſtand with the Lawes, Cuſtomes, and Statutes of this Realme or not.</p>
+            <p>The effect of which Charter in one place is; That the Governours have authority to ſearch, enquire, and ſeek out idle Ruffians, Taverne<g ref="char:EOLhyphen"/>hunters, Vagabonds, Beggars, and all perſons of evill name and fame, whatſoever they bee, men or women, and then to ſend and commit to Bridewell, or by any other wayes or meanes to puniſh or correct them, as ſhall ſeeme good to their diſcretions.</p>
+            <pb n="9" facs="tcp:155904:5"/>
+            <p>Here you ſee what the words of the ſaid Charter are.</p>
+            <p>Now are wee to conſider what the words of the Law be.</p>
+            <p>See <hi>Magna Charta</hi> of the Liberties of <hi>Eng<g ref="char:EOLhyphen"/>land cap.</hi> 29.
+<note place="margin">
+                  <hi>Magna Char<g ref="char:EOLhyphen"/>ta</hi> cap. 29.</note> 29.</p>
+            <p>No Freeman ſhall be taken or Impriſoned, or be Diſſeiſed of his Freehold, or Liberties, or free cuſtomes, or to be outlawed, or exiled, or any other wayes deſtroyed, Nor wee ſhall not paſſe upon him nor condemne him, but by law<g ref="char:EOLhyphen"/>full Judgement of men of his degree, or by the Law of the land.</p>
+            <p>Now if we doe compare the ſaid Charter of Bridewell with the great Charter of <hi>England</hi> both in matter, ſenſe, and meaning, you ſhall finde them meerely repugnant.</p>
+            <p>In the ſaid great Charter of <hi>England,</hi> in the laſt Chapter amongſt other things, the King granteth for him and his heires, That neither he nor his heires ſhall procure or do any thing, whereby the Liberties in the ſaid Charter con<g ref="char:EOLhyphen"/>tained, ſhall be infringed or broken.</p>
+            <p>And if any thing be procured or done by any perſon contrary to the premiſſes, it ſhall be had of no force or effect.</p>
+            <p>Here muſt you note alſo, That the ſaid great Charter of <hi>England</hi> is not onely confirmed by the Statute of <hi>Marlebridge cap.</hi> 5.
+<note place="margin">Stat. of <hi>Malb.</hi> cap. 3.</note> but alſo by many other Statutes made in the time of King
+<pb n="10" facs="tcp:155904:6"/>
+               <hi>Edw.</hi>
+               <note place="margin">King <hi>Ed.</hi> 3. <hi>R.</hi> 2. <hi>H.</hi> 4. <hi>H.</hi> 5. <hi>H.</hi> 6. Anno 43. <hi>E.</hi> 3. <hi>cap.</hi> 1.</note> 3. King <hi>R.</hi> 2. <hi>Hen.</hi> 4. <hi>Hen.</hi> 5. and <hi>Hen.</hi> 6. Amongſt ſundry of which Confirmations, I do note one above the reſt. The which is An. 43. <hi>Edw.</hi> 3. cap. 1. The words are theſe <hi>viz.</hi>
+            </p>
+            <p>It is aſſented and accorded, That the great Charter of <hi>England,</hi> and the Charter of the Forreſts, ſhall be kept in all points: and if any Statute be made to the contrary they ſhall bee holden for none.</p>
+            <p>Hitherto you ſee it very plainly, That pro<g ref="char:EOLhyphen"/>curement nor Act done either by the King or any other perſon, or any Act of Parliament, or other thing; may in any wayes alter or change any one point contained in the ſaid great Charter of <hi>England.</hi>
+            </p>
+            <p>But if you will note the words, ſence, mat<g ref="char:EOLhyphen"/>ter, and meaning of the ſaid Charter of Bride<g ref="char:EOLhyphen"/>well, you ſhall finde it all meerly repugnant to the ſaid great Charter of <hi>England.</hi>
+            </p>
+            <p>I doe note one ſpeciall Statute made in the ſaid 43. yeere of King <hi>Ed.</hi> 3. the which if it be well compared to the ſaid Charter of Bride<g ref="char:EOLhyphen"/>well, it will make an end of this contention.</p>
+            <p>The words are theſe, <hi>viz.</hi>
+            </p>
+            <p>Item, at the requeſt of the Commons, by the Petition put forth in this Parliament, to eſchew the miſchiefes and damages done to divers of the Commons by falſe Accuſers; which oftentimes have made their Accuſe<g ref="char:EOLhyphen"/>ments, more for vengeance and ſingular profit,
+<pb n="11" facs="tcp:155904:6"/>then for the profit of the King and his people; of which accuſed perſons, ſome have been ta<g ref="char:EOLhyphen"/>ken and cauſed to come, &amp;c. againſt the Law.</p>
+            <p>It is aſſented and accorded for the Govern<g ref="char:EOLhyphen"/>ment of the Commons, That no man be put to anſwer without preſentment before the Ju<g ref="char:EOLhyphen"/>ſtices of the King upon Record by due pro<g ref="char:EOLhyphen"/>ceſſe, As by Writ originall, according to the old Law of the land, And if any thing from henceforth be done to the contrary, it ſhall be void in the Law, and holden for Errour.</p>
+            <p>As I ſaid before, ſo ſay I ſtill; If this Sta<g ref="char:EOLhyphen"/>ture be in force, as I am ſure it is; then is the Law cleare: That the proceedings in Bride<g ref="char:EOLhyphen"/>well upon the accuſation of Whoors taken by the Governours of Bridewell aforeſaid; are not ſufficient to call any man to anſwer by any Warrant by them made, without Indictment or other matter of Record, according to the old Law of the land.</p>
+            <p>Such like Commiſſions as this of Bridewell is, were granted in the time of King <hi>Ed.</hi> 3. by eſpeciall procurement, to enquire of ſpeciall Articles, the which Commiſſioners did make their Inquiries in ſecret places, &amp;c.</p>
+            <p>It was therefore enacted, Anno 42. <hi>Ed.</hi> 3.
+<note place="margin">Anno 42. <hi>E.</hi> 3. <hi>cap.</hi> 4.</note> That from henceforth in all Inquiries within the Realme, Commiſſions ſhould bee made to ſome Juſtices of one Bench or other,
+<pb n="12" facs="tcp:155904:7"/>or Juſtices of Aſſize, or Juſtices of the Peace, with other of the moſt worthy of the Coun<g ref="char:EOLhyphen"/>tie, &amp;c.</p>
+            <p>By this Statute we may learne, that Com<g ref="char:EOLhyphen"/>miſſioners of Inquiries ought to ſit in open Courts, and not in any cloſe or ſecret place, and that their Inquirie ought to be by Juries, and by no diſcuſſion or examination.</p>
+            <p>If you looke upon the Statute of Anno <hi>H.</hi>
+               <note place="margin">Anno 1. <hi>H.</hi> 8. <hi>cap.</hi> 8.</note> 8. <hi>cap.</hi> 8. you ſhall there perceive the very cauſe, why <hi>Empſon, Sheffeild,</hi> and others, were quite overthrown, the which was (as by the Indict<g ref="char:EOLhyphen"/>ments eſpecially appeareth) for executing Commiſſions againſt due courſe of the Com<g ref="char:EOLhyphen"/>mon Law, and in that they did not proceed in Juſtice according to the Liberties of the great Charter of <hi>England,</hi> and of other Laws and Sta<g ref="char:EOLhyphen"/>tutes provided for the due executing of Juſtice.</p>
+            <p>There was a Commiſſion granted forth in the beginning of the Raigne of Queene <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> of happie memory unto Sir <hi>Ambroſe Cave,</hi> Sir <hi>Richard Sackvile,</hi> and others, for the exami<g ref="char:EOLhyphen"/>nation of Felons, and of other lewd perſons. It ſo fell out, that many men of good calling were impeached by the accuſation of Felons. Some great men and Judges alſo entred into the vali<g ref="char:EOLhyphen"/>dity of the Commiſſion, And it was thought that the Commiſſion was againſt the Law, and therefore did the Commiſſioners give over the Commiſſion, as all men know.</p>
+            <pb n="13" facs="tcp:155904:7"/>
+            <p>And whereas the Examination is by the Commiſſion referred to the wiſedome and diſ<g ref="char:EOLhyphen"/>cretion of the Governours of Bridewell, As touching this point, I find that the examinati<g ref="char:EOLhyphen"/>on of robberies done by Sanctuarie men, was appointed to the diſcretion of the Councell, or to four Juſtices of the Peace; But this was not by Commiſſion, or by Grant, but by Act of Parliament, made Anno 22. <hi>H.</hi> 8. <hi>cap.</hi> 14.
+<note place="margin">Anno 22. <hi>H.</hi> 8. <hi>cap.</hi> 14.</note>
+            </p>
+            <p>The Juſtices of both the Benches have uſed to examine the abilities and diſabilites of At<g ref="char:EOLhyphen"/>tourneys, and by their diſcretions to place or remove them upon their miſdemeanours with<g ref="char:EOLhyphen"/>out any ſolemnitie of triall at the Common-Pleas or Law, And that is and have been done by the Treaſurer and Barons of the Exchequer touching their Attourneys.</p>
+            <p>But if you ſearch the cauſe thereof, you ſhall finde the cauſe to be done by the authoritie of Parliament. An. 4 <hi>H.</hi> 4. <hi>cap.</hi> 1.
+<note place="margin">Anno 4 <hi>H.</hi> 4. <hi>cap.</hi> 1.</note>
+            </p>
+            <p>And whereas ſundry men are arreſted by <hi>Latitat, Capias, Attachments,</hi> and ſuch like Pro<g ref="char:EOLhyphen"/>ceſſe whereof their corporall preſence is requi<g ref="char:EOLhyphen"/>red, yet upon infirmities and other maladies, the Juſtices (having examined the matter) may by their diſcretions admit them to make Attour<g ref="char:EOLhyphen"/>neyes.</p>
+            <p>But note you in this caſe,
+<note place="margin">Anno 7. <hi>H.</hi> 4. <hi>cap.</hi> 13.</note> that all this is done by authority of Parliament. An. 7. <hi>H.</hi> 4. <hi>cap.</hi> 13.</p>
+            <p>The Commiſſion of Bankrupts gives power
+<pb n="14" facs="tcp:155904:8"/>to their Commiſſioners to take order by their diſcretions both with the body and goods of the Bankrupt, and ſet the Bankrupt out of his houſe, and him to impriſon, and all this is re<g ref="char:EOLhyphen"/>ferred to the diſcretion of the Commiſſioners; But this is by authority of Parliament.
+<note place="margin">
+                  <hi>Anno</hi> 13. <hi>Eliz. cap.</hi> 7.</note> An. 13. <hi>Eliz. cap.</hi> 7.</p>
+            <p>The puniſhment and examination of ſuch as countefeit Letters of privie tokens, is refer<g ref="char:EOLhyphen"/>red to the diſcretion of the Juſtices of peace in every Countie; But this is by Parliament. An<g ref="char:EOLhyphen"/>no 33.
+<note place="margin">Anno 33. <hi>H.</hi> 8. <hi>cap.</hi> 1.</note> 
+               <hi>H.</hi> 8. <hi>cap.</hi> 1.</p>
+            <p>The examination of Riots, Routs, and ſuch like miſdemeanours in the Star-chamber, is re<g ref="char:EOLhyphen"/>ferred to the diſcretion of the Iudges of the Court;
+<note place="margin">Anno 3. <hi>H.</hi> 7 <hi>cap.</hi> 1. Anno 2. <hi>H.</hi> 8. <hi>cap.</hi> 20.</note> But this is by Parliament. An. 3. H. 7. <hi>cap.</hi> 1. &amp; An. 2. H. 8. <hi>cap.</hi> 20.</p>
+            <p>The examination of vnlawfull hunting in Parks, warrens, &amp;c. is referred to the diſcretion of the Iuſtices of the Peace. And if the Offen<g ref="char:EOLhyphen"/>der deny his hunting, then it is felony. This is alſo by Parliament.
+<note place="margin">Anno 1. <hi>H.</hi> 7. <hi>cap.</hi> 7.</note> Anno 1. H. 7. <hi>cap.</hi> 7.</p>
+            <p>The Rate, Taxation and puniſhment of ſer<g ref="char:EOLhyphen"/>vants, labourers, &amp;c. of their wages, is referred to the diſcretion of the Iuſtices of Peace in eve<g ref="char:EOLhyphen"/>ry County, and Citie; but this is by Parlia<g ref="char:EOLhyphen"/>ment.
+<note place="margin">Anno 5. <hi>Eliz. cap.</hi> 4.</note> Anno 5. <hi>Eliz. cap.</hi> 4.</p>
+            <p>The examination of Rogues and Vagabonds with the forme of their puniſhment, is referred to the luſtices, but by Parliament.</p>
+            <pb n="15" facs="tcp:155904:8"/>
+            <p>The determination of all cauſes in <hi>Wales,</hi> is referred to bee ended by the Kings Councell there eſtabliſhed, by their Wiſdomes and di<g ref="char:EOLhyphen"/>ſcretions; but yet this is by Parliament.</p>
+            <p>The Grant of the Pluralities, <hi>Tot quots,</hi> Qualifications, Diſpenſations, Licences, an<g ref="char:punc">▪</g> Tollerations, is referred to the diſcretion of the Arch-Biſhop of <hi>Canterbury;</hi> but this is by Parliament.</p>
+            <p>The dealings and examinations of High Commiſſioners are authorized altogether by Parliament.</p>
+            <p>And to be ſhort, you ſhall find in the great volume of the Statutes, neere the number of fortie Acts of Parliament, that doe refer the examination and puniſhment of Offenders to the wiſdome and diſcretion of the Iuſtices.</p>
+            <p>Whereupon I doe note:</p>
+            <p>
+               <note place="margin">Nota.</note> That if the King by Prerogative might have done all things by Commiſſion, or by Charter; That it had been in vaine to have made ſo ma<g ref="char:EOLhyphen"/>ny Lawes in Parliament for the ſame.</p>
+            <p>And to make the Law more manifeſt in this queſtion, In ann. 42. Ed. 3. lib. Aſſiz. 11.5.
+<note place="margin">
+                  <hi>Ann.</hi> 42. <hi>E.</hi> 3. <hi>lib. Aſſiz</hi> 11.5.</note> A Commiſſion was ſent out of the Chancerie to one I. S. and others, to arreſt the body and goods of A. B. and him to impriſon; and the Iuſtices gave judgement, that this Commiſſi<g ref="char:EOLhyphen"/>on was directly againſt the Law, to take any ones body without Indictment: and therefore
+<pb n="16" facs="tcp:155904:9"/>they took the Commiſſion from the Commiſ<g ref="char:EOLhyphen"/>ſioners,
+<note place="margin">Nota.</note> to the intent to deliver the ſame to the Kings Councell,
+<note place="margin">Anno 24. <hi>E.</hi> 3.</note> 
+               <hi>Quod nota.</hi>
+            </p>
+            <p>And I doe alſo find in the 24. yeere of King <hi>E.</hi> 3. this preſident, That a Commiſſion was granted to certaine perſons, to indict all thoſe who were notoriouſly ſlandered for any felo<g ref="char:EOLhyphen"/>nies, treſpaſſes, or for any other miſdemeanors, yea although they were indicted for the ſame.</p>
+            <p>And it was adjudged that this Commiſſion was directly againſt the Law.</p>
+            <p>And thus I doe conclude upon the whole matter.</p>
+            <p>That the Commiſſion of Bridewell would bee well conſidered of by the learned Councell of the citie: For I do not think to the contrary; but that there bee learned, that by their great knowledge in the Law, are well able either in a <hi>Quo warranto,</hi> or any other action brought to defend the ſame.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
